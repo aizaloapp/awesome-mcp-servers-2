@@ -255,6 +255,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools that help marketers write better content and run better campaigns.
 
+- <img src="https://aeorank.app/favicon.svg" height="14"/> [AEORank](https://github.com/aizaloapp/aeorank) - Official [AEORank](https://aeorank.app) MCP server for live 62-rule Technical SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO) diagnostics, AI Share of Voice, RFC 9727 Agentic Web readiness, and /llms.txt generation.
 - <img src="https://cdn.simpleicons.org/analytics/4285F4" height="14"/> [Agent Mindshare](https://agentmindshare.com) - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations.
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
